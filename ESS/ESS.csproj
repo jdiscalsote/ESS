@@ -216,6 +216,7 @@
     <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
     <Content Include="image\bg.jpg" />
     <Content Include="image\img_avatar1.png" />
+    <Content Include="index.html" />
     <Content Include="Login.aspx" />
     <Content Include="app\Dashboard.aspx" />
     <Content Include="Site.Master" />
