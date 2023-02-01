@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ESS.SiteMaster" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link rel="icon" href="image/logo.png" type="image/gif" sizes="16x16" />
+
+    <title></title>
+
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/cdnjs/sweetalert2.min.js"></script>
+
+    <style>
+        html, body {
+            margin: 0px;
+            padding: 0px;
+            height: 100%;
+        }
+        .mainDev {
+            display: table;
+            height: 100%;
+            margin: 0 auto;
+            width: 90%;
+            padding: 20px;
+        }
+        .container-login {
+            display:table-cell;
+            vertical-align: middle; 
+        }
+
+        .form-floating {
+            font-size: 16px;
+        }
+
+        .row .sideIMG {
+            background-image: url("../image/bg.jpg");
+            background-position: center;
+            background-size: cover;
+        }
+
+        .sysTitle {
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <!-- Page Content -->
+        <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <asp:ScriptManager ID="ScriptManager" runat="server" />
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <!-- Disabled Right Click -->
+    <script type="text/javascript">
+        document.addEventListener('contextmenu', event => event.preventDefault());
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\bin\Debug\BusinessObject.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\bin\Debug\BusinessObject.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\bin\Debug\BusinessObject.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Debug\BusinessObject.pdb
+E:\Project\ESS\BusinessObject\bin\Debug\BusinessObject.dll
+E:\Project\ESS\BusinessObject\bin\Debug\BusinessObject.pdb
+E:\Project\ESS\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+E:\Project\ESS\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Project\ESS\BusinessObject\obj\Debug\BusinessObject.dll
+E:\Project\ESS\BusinessObject\obj\Debug\BusinessObject.pdb

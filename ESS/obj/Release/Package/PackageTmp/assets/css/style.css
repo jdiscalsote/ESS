@@ -1,0 +1,12 @@
+﻿body * {
+    font-family: Arial;
+}
+@font-face {
+    font-family: 'Walkind';
+    src: url('../fonts/Walkind.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'ArsenicaTrial-Regular';
+    src: url('../fonts/ArsenicaTrial-Regular.ttf') format('truetype');
+}

@@ -1,0 +1,42 @@
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessObject.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\DataAccess.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessObject.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessObject.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\DataAccess.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\BusinessObject.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Project\ESS\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Project\ESS\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Project\ESS\BusinessLogic\bin\Debug\BusinessObject.dll
+E:\Project\ESS\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Project\ESS\BusinessLogic\bin\Debug\BusinessObject.pdb
+E:\Project\ESS\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\Project\ESS\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\Project\ESS\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Project\ESS\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\Project\ESS\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Project\ESS\BusinessLogic\obj\Debug\BusinessLogic.pdb

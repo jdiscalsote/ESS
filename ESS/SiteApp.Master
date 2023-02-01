@@ -1,0 +1,207 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteApp.master.cs" Inherits="ESS.SiteApp" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link rel="icon" href="image/logo.png" type="image/gif" sizes="16x16" />
+
+    <title></title>
+
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/cdnjs/sweetalert2.min.js"></script>
+    <script src="../assets/js/prettify.min.js"></script>
+    <script src="../assets/js/topbar.min.js"></script>
+
+    <style>
+        .fixed-top {
+            width: 100%;
+            top: 0px;
+            padding-top: 11px;
+            height: 60px;
+            overflow: hidden;
+            z-index: 100;
+            color: darkgray;
+            background-color: #657c92;
+            box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 5px 10px 0 rgba(0, 0, 0, 0.19);
+            transition: all 0.6s ease;
+        }
+
+        .navbarHeader { /*Moblie View*/
+            margin-top: -25px;
+        }
+
+        .empName { /*Employee Name*/
+            color: #ffffff;
+            font-size: 12px;
+        }
+
+        .offcanvasSide { /*Desktop View*/
+            width: 20%;
+            transition: 0.5s;
+        }
+
+        .offcanvasMobile { /*Moblie View*/
+            width: 50%;
+            transition: 0.5s;
+        }
+
+        .offcanvasHeader {
+            height: 60px;
+            background-color: #657c92;
+            box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 5px 10px 0 rgba(0, 0, 0, 0.19);
+        }
+
+        .nav-item { /*Side Nav Link Button*/
+            font-size: 14px;
+        }
+        .bodyPage {
+            display: none;
+        }
+    </style>
+
+    <script>
+        $(function () {
+            prettyPrint()
+            function resetToDefaults() {
+                topbar.config({
+                    autoRun: true,
+                    barThickness: 4,
+                    barColors: {
+                        '0': 'rgba(26,  188, 156, .9)',
+                        '.25': 'rgba(52,  152, 219, .9)',
+                        '.50': 'rgba(241, 196, 15,  .9)',
+                        '.75': 'rgba(230, 126, 34,  .9)',
+                        '1.0': 'rgba(211, 84,  0,   .9)'
+                    },
+                    shadowBlur: 10,
+                    shadowColor: 'rgba(0,   0,   0,   .6)',
+                    className: 'topbar'
+                })
+            }
+
+            // Page load
+            resetToDefaults()
+            topbar.show()
+            setTimeout(function () {
+                $('.bodyPage').fadeIn('slow')
+                topbar.hide()
+            }, 1000)
+
+        })
+    </script>
+
+</head>
+<body>
+    <form runat="server">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-sm navbar-expand-md navbar-expand-lg navbar-dark fixed-top">
+            <div class="container-fluid navbarHeader">
+                <dl class="pt-3">
+                    <dt><a class="navbar-brand sysTitle" href="Dashboard.aspx">Employee Self Service</a></dt>
+                    <dd class="small text-white" style="font-size: 12px">FEDERAL LAND INC.</dd>
+                </dl>
+                <button class="btn btn-outline-light btnMenu" type="button" data-bs-toggle="offcanvas" data-bs-target="#sideNav">
+                    Menu&nbsp;<i class="fa fa-bars"></i>
+                </button>
+            </div>
+        </nav>
+        <!-- Navigation -->
+
+        <!-- Left Side Navigation -->
+        <div class="offcanvas offcanvas-start offcanvasSide" id="sideNav" data-bs-keyboard="false" data-bs-backdrop="false" tabindex="-1">
+            <div class="offcanvas-header offcanvasHeader">
+                <dl class="pt-4">
+                    <dt>
+                        <asp:Label CssClass="empName" ID="lblUsername" runat="server" /></dt>
+                    <dd class="small text-white" style="font-size: 12px">
+                        <asp:Label ID="lblRole" runat="server" /></dd>
+                </dl>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+            </div>
+            <div class="offcanvas-body">
+
+                <h6>Home</h6>
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <asp:LinkButton ID="lnkDashboard" CssClass="dropdown-item" OnClick="lnkDashboard_Click" runat="server"><i class="fa fa-dashboard"></i>&nbsp;Dashboard</asp:LinkButton>
+                    </li>
+                </ul>
+
+                <br />
+
+                <h6>User Management</h6>
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <asp:LinkButton ID="lnkRole" CssClass="dropdown-item" runat="server"><i class="fa fa-tasks"></i>&nbsp;Role</asp:LinkButton>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="lnkUsers" CssClass="dropdown-item" OnClick="lnkUsers_Click" runat="server"><i class="fa fa-users"></i>&nbsp;Users</asp:LinkButton>
+                    </li>
+                </ul>
+
+                <br />
+
+                <h6>Settings</h6>
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="dropdown-item" href="#"><i class="fa fa-user-circle"></i>&nbsp;Account</a>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="lnkLogout" CssClass="dropdown-item" OnClick="lnkLogout_Click" runat="server"><i class="fa fa-sign-out"></i>&nbsp;Logout</asp:LinkButton>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- End Left Side Navigation -->
+
+        <!-- Page Content -->
+        <div class="container-fluid pt-5 mt-4 bodyPage">
+            <asp:ScriptManager ID="ScriptManager" runat="server" />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <!-- End Page Content -->
+
+        <script>
+            jQuery(function ($) {
+                $(window).resize(function () {
+                    if (window.matchMedia('(max-width: 575px)').matches) {
+                        $(".offcanvasSide").addClass("offcanvasMobile");
+                        $(".navbar>div").addClass("navbarHeader");
+                    }
+                    else {
+                        $(".offcanvasSide").removeClass("offcanvasMobile");
+                        $(".navbar>div").removeClass("navbarHeader");
+                    }
+                });
+
+                $(document).load($(window).width(changeClass));
+                function changeClass() {
+                    if (window.matchMedia('(max-width: 575px)').matches) {
+                        $(".offcanvasSide").addClass("offcanvasMobile");
+                        $(".navbar>div").addClass("navbarHeader");
+                    }
+                    else {
+                        $(".offcanvasSide").removeClass("offcanvasMobile");
+                        $(".navbar>div").removeClass("navbarHeader");
+                    }
+                }
+            });
+        </script>
+
+    </form>
+
+    <!-- Disabled Right Click -->
+    <script type="text/javascript">
+        document.addEventListener('contextmenu', event => event.preventDefault());
+    </script>
+
+</body>
+</html>

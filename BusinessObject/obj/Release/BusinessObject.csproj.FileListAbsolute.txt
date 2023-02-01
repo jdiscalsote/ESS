@@ -1,0 +1,11 @@
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\bin\Release\BusinessObject.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\bin\Release\BusinessObject.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.csprojResolveAssemblyReference.cache
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\bin\Release\BusinessObject.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\bin\Release\BusinessObject.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.csproj.AssemblyReference.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.csproj.CoreCompileInputs.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\BusinessObject\obj\Release\BusinessObject.pdb

@@ -1,0 +1,34 @@
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\bin\Debug\BusinessObject.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\bin\Debug\BusinessObject.pdb
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jnodiscalsote\documents\visual studio 2015\Projects\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\DataAccess.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\DataAccess.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\BusinessObject.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\BusinessObject.pdb
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.dll
+D:\John Files\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\DataAccess.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\DataAccess.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\BusinessObject.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\bin\Debug\BusinessObject.pdb
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.dll
+E:\John Files\SDT_WeeklyReport (2)\SDT_WeeklyReport\SDT_WeeklyReport\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project\ESS\DataAccess\bin\Debug\DataAccess.dll
+E:\Project\ESS\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project\ESS\DataAccess\bin\Debug\BusinessObject.dll
+E:\Project\ESS\DataAccess\bin\Debug\BusinessObject.pdb
+E:\Project\ESS\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Project\ESS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Project\ESS\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Project\ESS\DataAccess\obj\Debug\DataAccess.dll
+E:\Project\ESS\DataAccess\obj\Debug\DataAccess.pdb
